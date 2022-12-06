@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a>&nbsp
+<a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songchane&show_icons=true&theme=graywhite)
 
