@@ -10,6 +10,8 @@
 #### :envelope: Social 
 <a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a> <a href="https://github.com/songchane"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Notion&logoColor=white&link=https://github.com/songchane"/></a> <img src="https://img.shields.io/badge/@songchan_e-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
+#### :point_down: 교수님이 내주시 개인과제 링크
+
 
 </div>
 
