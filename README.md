@@ -10,12 +10,12 @@
 #### :envelope: Social 
 <a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a> <a href="https://github.com/songchane"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Notion&logoColor=white&link=https://github.com/songchane"/></a> <img src="https://img.shields.io/badge/@songchan_e-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
-#### :point_down: 교수님이 내주시 개인과제 링크 :point_down:
+<!--#### :point_down: 교수님이 내주시 개인과제 링크 :point_down:
 [마크다운 보고서](https://github.com/songchane/OSS-class/blob/main/practice/markdown.md) <br>
 [명령어 정리한 저장소](https://github.com/songchane/git-command) <br>
 [수업시간에 공부한 내용 정리한 저장소](https://github.com/songchane/1-2-class) <br>
 [GIT CHEAT SHEET](https://github.com/songchane/git-command/blob/main/cheat%20sheet/git%20cheat%20sheet.pdf) <br>
-[GITHUB CHEAT SHEET](https://github.com/songchane/git-command/blob/main/cheat%20sheet/github%20cheat%20sheet.pdf) <br>
+[GITHUB CHEAT SHEET](https://github.com/songchane/git-command/blob/main/cheat%20sheet/github%20cheat%20sheet.pdf) <br> -->
 
 
 </div>
