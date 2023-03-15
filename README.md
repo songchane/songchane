@@ -4,11 +4,11 @@
 
 ![undraw_Master_plan_re_jvit](https://user-images.githubusercontent.com/106071623/205939694-9b956165-eeeb-452b-bc0c-d1f413361cbc.png)
 
-#### :books: language
+<!-- #### :books: language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-#### :envelope: Social 
-<a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a> <a href="https://github.com/songchane"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Notion&logoColor=white&link=https://github.com/songchane"/></a> <img src="https://img.shields.io/badge/@songchan_e-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+ #### :envelope: Social 
+<a href="https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-chansong-c237c5a6d3a64eed811cf7c9d17278b6"/></a> <a href="https://github.com/songchane"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Notion&logoColor=white&link=https://github.com/songchane"/></a> <img src="https://img.shields.io/badge/@songchan_e-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> -->
 
 <!--#### :point_down: 교수님이 내주시 개인과제 링크 :point_down:
 [마크다운 보고서](https://github.com/songchane/OSS-class/blob/main/practice/markdown.md) <br>
