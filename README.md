@@ -2,7 +2,7 @@
 
 <div align="center"
 
-![undraw_Master_plan_re_jvit](https://user-images.githubusercontent.com/106071623/205939694-9b956165-eeeb-452b-bc0c-d1f413361cbc.png)
+<!-- ![undraw_Master_plan_re_jvit](https://user-images.githubusercontent.com/106071623/205939694-9b956165-eeeb-452b-bc0c-d1f413361cbc.png) -->
 
 <!-- #### :books: language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
